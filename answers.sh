@@ -4,10 +4,10 @@
 cd ORIGIN
 
 # Task 1 
-
+mv Homework/MA165/HW2.txt HW1.txt
 
 # Task 2
-
+rm -r  Memes/SpongeBob/money.jpeg
 
 # Task 3
 
